@@ -35,12 +35,6 @@
 
 ---
 
-# 📫 Contact
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
 ⭐ Feel free to explore my repositories and follow my work!
 <!--
 **viksan4o/viksan4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
